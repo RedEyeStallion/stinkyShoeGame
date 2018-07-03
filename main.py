@@ -10,9 +10,9 @@
 # out for mudslides. A filthy sneaker is a stinky sneaker, so clean it 
 # up as needed! Get too dirty and you're in for a stinky time!
 
-# Zachary McEachern - zachmceachern@yahoo.com
-# Adrial Armijo - adrial.armijo@gmail.com
-# Ryan Hodgson - hodgson@csu.fullerton.edu
+# Zachary McEachern
+# Adrial Armijo
+# Ryan Hodgson
 # With art contributions from:
 # 	***** Leslie Hernandez, CSUF Art Undergrad Student ******
 
